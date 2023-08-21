@@ -1,1 +1,5 @@
-*.proton
+*.vpn-api.proton.me
+*.protonstatus.com
+*.protonvpn.ch
+*.protonvpn.com
+*.protonvpn.net
