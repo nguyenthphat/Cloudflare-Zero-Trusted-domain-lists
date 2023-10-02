@@ -3,3 +3,4 @@
 *.protonvpn.ch
 *.protonvpn.com
 *.protonvpn.net
+*.tor.us
